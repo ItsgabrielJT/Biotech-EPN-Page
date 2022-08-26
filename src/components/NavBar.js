@@ -10,8 +10,8 @@ const NavBar = () => {
                 <a className="text-lg indent-5 font-bold text-neutral-content">Biotech EPN</a>
             </div> 
             <div className="flex justify-end flex-1 px-2">
-                <div className="flex items-stretch">
-                    <a href="https://github.com/ItsgabrielJT/Biotech-EPN.git"><button className="btn btn-secondary text-base-200">GitHub Repository</button></a>
+                <div className="flex items-stretch">                
+                    <a href="https://github.com/ItsgabrielJT/Biotech-EPN-Page"><button className="btn btn-secondary text-base-200">GitHub Repository</button></a>
                 </div>
             </div>
         </div>
